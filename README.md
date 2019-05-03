@@ -10,6 +10,7 @@
 * apt安装特定版本的程序(某些程序需要特定版本)
 > apt-get install softname=version
 * VIM打开两个文件分屏编辑
+> split ctrl + w + j/k
 * 
 
 ### 一些技巧
