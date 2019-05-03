@@ -4,7 +4,7 @@
 * 将正在运行的程序放到后台
 > Ctrl + Z bg fg jobs
 * 让程序关闭shell后继续运行
-> noup
+> nohup
 * 找到程序的安装位置
 > whereis
 * apt安装特定版本的程序
